@@ -17,7 +17,7 @@ Before running the application, make sure you have Node.js and npm (Node Package
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/blog-page.git
+   git clone https://github.com/Vishalkumarjha72/blog-page.git
    Navigate to the project directory:cd blog-page
    Install dependencies:npm install
    Start the development server:npm start
